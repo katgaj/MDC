@@ -915,20 +915,20 @@ div.central-dropdown-content > a:hover
 	padding-right: 0px;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	border-left: solid 1px #45494C;
-	border-right: solid 1px #45494C;
-	border-top: solid 1px #45494C;
-	border-bottom: solid 1px #45494C;
+	border-left: solid 1px var(--Dark);
+	border-right: solid 1px var(--Dark);
+	border-top: solid 1px var(--Dark);
+	border-bottom: solid 1px var(--Dark);
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
-	background-color: #FFFFFF;
+	background-color: var(--Lightest);
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-auto-complete li a
 {
-	color: #000000;
+	color: var(--Darkest);
 	font-weight: normal;
 	padding-left: 7px;
 	padding-right: 27px;
@@ -980,22 +980,22 @@ div.central-dropdown-content > a:hover
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
-	background-color: #DADEE1;
+	background-color: var(--Light);
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-content.auto-result-selected
 {
-	background-color: #DADEE1;
+	background-color: var(--Light);
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-history.auto-result-selected
 {
-	background-color: #DADEE1;
+	background-color: var(--Light);
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-description
 {
-	color: #45494C;
+	color: var(--Dark);
 	font-size: 13px;
 }
 
@@ -1079,20 +1079,20 @@ div.central-dropdown-content > a:hover
 .search-bar._Skins_Topics_Searchbar.mc-component
 {
 	display: block;
-	width: 86%;
-	height: 3em;
-	margin-left: 5cm;
-	margin-right: 5cm;
+	width: 100%;
+	height: 2em;
+	margin-left: 4cm;
+	margin-right: 2cm;
 	margin-top: 0px;
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-field
 {
-	height: 3em;
-	border-left: solid 1px #DADEE1;
-	border-right: solid 1px #DADEE1;
-	border-top: solid 1px #DADEE1;
-	border-bottom: solid 1px #DADEE1;
+	height: 2em;
+	border-left: solid 1px var(--Light);
+	border-right: solid 1px var(--Light);
+	border-top: solid 1px var(--Light);
+	border-bottom: solid 1px var(--Light);
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
@@ -1105,43 +1105,43 @@ div.central-dropdown-content > a:hover
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-filter
 {
-	height: 3em;
-	border-top: solid 1px #DADEE1;
-	border-bottom: solid 1px #DADEE1;
-	border-left: solid 1px #000000;
-	border-right: solid 1px #000000;
+	height: 2em;
+	border-top: solid 1px var(--Light);
+	border-bottom: solid 1px var(--Light);
+	border-left: solid 1px var(--Darkest);
+	border-right: solid 1px var(--Darkest);
 	width: 45px;
-	background: #FFFFFF url('Images/FilterOutline.png') no-repeat center center;
-	-pie-background: #FFFFFF url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+	background: var(--Lightest) url('Images/FilterOutline.png') no-repeat center center;
+	-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-submit
 {
-	height: 3em;
-	border-right: solid 1px #DADEE1;
-	border-top: solid 1px #DADEE1;
-	border-bottom: solid 1px #DADEE1;
+	height: 2em;
+	border-right: solid 1px var(--Light);
+	border-top: solid 1px var(--Light);
+	border-bottom: solid 1px var(--Light);
 	border-top-right-radius: 0px;
 	border-bottom-right-radius: 0px;
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-filter-content
 {
-	top: 3em;
-	color: #45494C;
-	background-color: #FFFFFF;
+	top: 2em;
+	color: var(--Dark);
+	background-color: var(--Lightest);
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-filter-wrapper.open
 {
-	-pie-background: #FFFFFF url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
-	color: #45494C;
-	background-color: #FFFFFF;
+	-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+	color: var(--Dark);
+	background-color: var(--Lightest);
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-filter:hover
 {
-	background-color: #FFFFFF;
+	background-color: var(--Lightest);
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-filter.selected
@@ -1152,14 +1152,14 @@ div.central-dropdown-content > a:hover
 
 ._Skins_Topics_Searchbar.mc-component .search-filter-content ul li:hover
 {
-	color: #000000;
-	background-color: #FFFFFF;
+	color: var(--Darkest);
+	background-color: var(--Lightest);
 }
 
 ._Skins_Topics_Searchbar.mc-component .search-filter-content ul li button:focus
 {
-	color: #000000;
-	background-color: #FFFFFF;
+	color: var(--Darkest);
+	background-color: var(--Lightest);
 }
 
 .search-bar._Skins_Topics_Searchbar.mc-component .search-field::-webkit-input-placeholder
@@ -1208,7 +1208,6 @@ div.central-dropdown-content > a:hover
 ul.menu._Skins_Topics_Menu.mc-component
 {
 	color: #083174;
-	font-family: 'Arial Rounded MT Bold';
 	font-size: 1em;
 	font-weight: bold;
 	font-style: normal;
@@ -1224,13 +1223,12 @@ ul.menu._Skins_Topics_Menu.mc-component
 	width: 100%;
 	height: auto;
 	max-height: 100%;
-	background-color: #DADEE1;
+	background-color: var(--Light);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component a
 {
 	color: #083174;
-	font-family: 'Arial Rounded MT Bold';
 	font-size: 1em;
 	font-weight: bold;
 	font-style: normal;
@@ -1238,7 +1236,6 @@ ul.menu._Skins_Topics_Menu.mc-component a
 
 ul.menu._Skins_Topics_Menu.mc-component li > a
 {
-	font-family: Arial;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-top: 0px;
@@ -1252,8 +1249,7 @@ ul.menu._Skins_Topics_Menu.mc-component li > a
 
 ul.menu._Skins_Topics_Menu.mc-component ul > li > a
 {
-	color: #0d2243;
-	font-family: Arial;
+	color: #083174;
 	padding-left: 20px;
 	background-color: transparent;
 }
@@ -1284,33 +1280,33 @@ ul.menu._Skins_Topics_Menu.mc-component li > a.selected
 
 ul.menu._Skins_Topics_Menu.mc-component li > a:hover
 {
-	color: #FFFFFF;
-	background-color: #27c49b;
+	color: var(--Lightest);
+	background-color: var(--Primary);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component ul > li > a:hover
 {
-	background-color: #27c49b;
+	background-color: var(--Primary);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component ul ul > li > a:hover
 {
-	background-color: #27c49b;
+	background-color: var(--Primary);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component ul ul ul > li > a:hover
 {
-	background-color: #27c49b;
+	background-color: var(--Primary);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component ul ul ul ul > li > a:hover
 {
-	background-color: #27c49b;
+	background-color: var(--Primary);
 }
 
 ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 {
 	font-weight: bold;
-	background-color: #27c49b;
+	background-color: var(--Primary);
 }
 

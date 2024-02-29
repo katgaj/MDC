@@ -433,11 +433,18 @@ a.glossaryTerm
 div.MCBreadcrumbsBox_0
 {
 	border-bottom-width: 0;
-	color: #45494C;
+	color: var(--Dark);
 	border-bottom-style: solid;
 	border-bottom-color: black;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
+}
+
+.xref
+{
+	font-weight: bold;
+	text-decoration: underline;
+	color: var(--Primary);
 }
 
 .MCWebHelpFramesetLink a

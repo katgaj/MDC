@@ -187,10 +187,10 @@ div.tile-head-4
 
 div.tile-head-1	/*Change this background-color for the first tile color*/
 {
+	background: #383d3b;
 	font-family: Arial;
 	color: #000000;
 	background-color: #48d1cc;
-	background: #48d1cc;
 }
 
 div.tile-head-2	/*Change this background-color for the second tile color*/
@@ -202,7 +202,6 @@ div.tile-head-2	/*Change this background-color for the second tile color*/
 div.tile-head-3	/*Change this background-color for the second tile color*/
 {
 	background-color: #394f49;
-	color: #000000;
 }
 
 div.tile-head-4	/*Change this background-color for the second tile color*/
