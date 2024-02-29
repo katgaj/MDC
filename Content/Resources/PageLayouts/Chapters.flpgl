@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="2cm" PaddingRight="2cm" PaddingTop="2cm" PaddingBottom="2cm" Orientation="portrait" BleedLeft="0" BleedRight="0" BleedTop="0" BleedBottom="0">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.08333334in" Y="0in" Right="0in" Bottom="-3px" Width="656px" Height="907px">
+        </Frame>
+    </Page>
+</PageStyles>

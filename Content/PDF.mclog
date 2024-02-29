@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2023 r2 Generated PDF.fltar" Date="2024-02-23T11:18:52.6564037+01:00">
+    <Messages>Compiling target PDF...
+Removing previously generated content...
+Build failed: Proces nie może uzyskać dostępu do pliku „C:\KT\MadCap_Project\Output\PDF\”, ponieważ jest on używany przez inny proces.
+Saving log to "C:\KT\MadCap_Project\Output\PDF\PDF.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="Project\Targets\PDF.fltar" Message="Build failed: Proces nie może uzyskać dostępu do pliku „C:\KT\MadCap_Project\Output\PDF\”, ponieważ jest on używany przez inny proces.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="PDF" ErrorID="10086" />
+    </Errors>
+</MadCapLog>

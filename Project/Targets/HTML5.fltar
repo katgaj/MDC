@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ConditionTagExpression="include[green&amp;purple.purple], exclude[green&amp;purple.green]"
+  ShowMadCapBacklink="true"
+  MasterToc="/Project/TOCs/Cross-country skiing.fltoc"
+  ResolveCssVariables="true"
+  SearchBarSkin="/Project/Skins/Topics-Searchbar.flskn"
+  TabletBreakpoint="1276"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="true"
+  GetLatestBeforeCompile="false"
+  ContentInclusionType="Referenced"
+  Skin="/Project/Skins/Top-Navigation.flskn"
+  DefaultUrl="/Content/Resources/TemplatePages/Home.htm"
+  MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  MenuSkin="/Project/Skins/Topics-Menu.flskn"
+  EquationsOutputType="PNG"
+  OutputFolder="C:\KT\MadCap_Project"
+  FaviconSkin="/Project/Skins/favicon.flskn"
+  conditions="Default.PrintOnly,green&amp;purple.purple"
+  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
+  OutputFile="index.html">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+  <Destinations>
+    <Destination
+      Publish="true" />
+  </Destinations>
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Overview"
+  InlineFormatting="Remove"
+  TableStyles="ProjectStyleSheet"
+  PreserveMappedStyles="false"
+  LastImport="2024-02-06T10:58:52.3918260+01:00">
+  <Files>
+    <Url
+      Source="../../The origins.docx"
+      AbsoluteSource="file:///C:/KT/MadCap_Project/Cross-country skiing/The origins.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Overview/The origins_1.htm"
+      TimeStamp="06.02.2024 10:58:46" />
+    <Url
+      Source="../TOCs/The origins1.fltoc"
+      TimeStamp="06.02.2024 10:58:46" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/The origins1.css"
+      TimeStamp="06.02.2024 10:58:46" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Normalny (Web)"
+      To="p"
+      Style="Flare" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>

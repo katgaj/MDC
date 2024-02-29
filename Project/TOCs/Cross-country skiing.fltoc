@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview"
+    Link="/Content/Overview/What is cross-country skiing.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    ReplaceMergeNode="false">
+    <TocEntry
+      Title="What is cross-country skiing"
+      Link="/Content/Overview/What is cross-country skiing.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="Origins"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      Link="/Content/Overview/The origins.htm" />
+    <TocEntry
+      Title="Best cross-country skiing trails in Poland"
+      Link="/Content/Overview/Best trails in Poland.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Best trails around the world"
+      Link="/Content/Overview/Best trails around the world.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Gear"
+    Link="/Content/How to prepare/Body preparation.htm">
+    <TocEntry
+      Title="Gear"
+      Link="/Content/Gear/Equipment.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Outfit"
+      Link="/Content/Gear/outfit.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Base layers"
+      Link="/Content/Gear/Base layers.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Middle layers"
+      Link="/Content/Gear/Middle layers.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Outer layers"
+      Link="/Content/Gear/Outer layers.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="How to prepare"
+    Link="/Content/How to prepare/Body preparation.htm">
+    <TocEntry
+      Title="Body preparation"
+      Link="/Content/How to prepare/Body preparation.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cardio training"
+      Link="/Content/How to prepare/Cardio training.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work on your core"
+      Link="/Content/How to prepare/Work on your core.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Nutrition"
+      Link="/Content/How to prepare/Nutrition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Worth it or not"
+    Link="/Content/Worth it or not/Why is it worth it.htm">
+    <TocEntry
+      Title="Cost"
+      Link="/Content/Worth it or not/Cost.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Who is it for?"
+      Link="/Content/Worth it or not/Who is it for.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Why bother?"
+      Link="/Content/Worth it or not/Why is it worth it.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

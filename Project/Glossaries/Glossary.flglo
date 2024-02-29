@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    Terms="Copy (5) of New"
+    glossTerm="Glossary.Term0"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>cross-country specific jacket</Term>
+    </Terms>
+    <Definition
+      Link="">a jacket that is elastic and highly breathable, made of windproof and water-repellent material</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>wind briefs</Term>
+    </Terms>
+    <Definition
+      Link="">men's underpants with softshell front panel that keeps you warm in cold and windy conditions.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>stamina</Term>
+    </Terms>
+    <Definition
+      Link="">the physical and/or mental strength to do something that might be difficult and will take a long time</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>trail</Term>
+    </Terms>
+    <Definition
+      Link="">a route that has been laid out, constructed and maintained specifically for cross-country skiing</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>cross-country pants</Term>
+    </Terms>
+    <Definition
+      Link="">pants made to work well in skiing, and they often do double duty as running pants. The front is windproof, and most models have air permeable, super breathable back panels</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem="True"
+    IgnoreCase="false"
+    TermClass="Popup"
+    conditions="cartoon.PrintOnly,Default.PrintOnly">
+    <Terms>
+      <Term>groomed trail</Term>
+    </Terms>
+    <Definition
+      Link="">trails that are meticulously maintained and prepared by machinery like snow groomers, snowcats, or trail grooming equipment. These machines compact and smooth the surface, creating well-defined tracks or paths</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

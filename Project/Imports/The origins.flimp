@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="false" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="False" TableStyles="ProjectStyleSheet" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" ImportFolder="Overview" LastImport="2024-02-06T10:51:08.2240418+01:00">
+    <Files>
+        <Url Source="../../The origins.docx" AbsoluteSource="file:///C:/KT/MadCap_Project/Cross-country skiing/The origins.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Overview/The origins.htm" TimeStamp="06.02.2024 10:50:59" />
+        <Url Source="../TOCs/The origins.fltoc" TimeStamp="06.02.2024 10:50:59" />
+        <Url Source="../../Content/Resources/Stylesheets/The origins.css" TimeStamp="06.02.2024 10:50:59" />
+    </GeneratedFiles>
+    <ParagraphStyles />
+    <CharacterStyles />
+    <NewTopicStyles />
+</MsWordImport>
