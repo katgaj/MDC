@@ -80,13 +80,15 @@
 
 	.central-account-image
 	{
-		background: transparent url('Images/icon-user-white.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/icon-user-white.png') no-repeat center center;
+		background-repeat: no-repeat;
+		background: transparent none;
+		-pie-background: transparent;
+		background-position: center center;
 	}
 
 	.central-dropdown-content
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	div.central-dropdown-content > a
@@ -286,10 +288,8 @@
 
 	nav.title-bar
 	{
-		background-repeat: no-repeat;
-		background: var(--Primary) none;
-		-pie-background: var(--Primary);
-		background-position: center top;
+		background: transparent url('Images/background.jpg') no-repeat center top;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/background.jpg') no-repeat center top;
 	}
 
 	.off-canvas-wrapper-inner nav.title-bar .outer-row
@@ -400,13 +400,13 @@
 
 	.knowledge-panel-container.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,var(--Lightest)));
-		background: -webkit-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -o-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: -ms-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: linear-gradient(transparent 0%,var(--Lightest) 100%);
-		-pie-background: linear-gradient(transparent, var(--Lightest));
+		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
+		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: linear-gradient(transparent 0%,#FFFFFF 100%);
+		-pie-background: linear-gradient(transparent, #FFFFFF);
 	}
 
 	.title-bar-layout .logo-wrapper
@@ -635,13 +635,13 @@
 
 	.micro-content-proxy.knowledge.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,var(--Lightest)));
-		background: -webkit-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -o-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: -ms-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: linear-gradient(transparent 0%,var(--Lightest) 100%);
-		-pie-background: linear-gradient(transparent, var(--Lightest));
+		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
+		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: linear-gradient(transparent 0%,#FFFFFF 100%);
+		-pie-background: linear-gradient(transparent, #FFFFFF);
 	}
 
 	.micro-content-proxy.promotion .micro-content-drop-down-button
@@ -694,7 +694,7 @@
 
 	.micro-content-proxy.promotion .micro-response
 	{
-		
+		background: none;
 	}
 
 	.micro-content-proxy.promotion.micro-content-truncated-mode .micro-response
@@ -753,7 +753,7 @@
 
 	.search-auto-complete ul
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-auto-complete li.auto-result-item a
@@ -783,17 +783,17 @@
 
 	.search-auto-complete li.auto-result-item.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	.search-auto-complete li.auto-result-content.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	.search-auto-complete li.auto-result-history.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	.search-auto-complete li.auto-result-item .auto-result-description
@@ -895,12 +895,12 @@
 	.search-bar .search-filter
 	{
 		background-repeat: no-repeat;
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-bar .search-filter-wrapper.open
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-bar .search-filter-wrapper
@@ -911,7 +911,7 @@
 	.search-bar .search-filter:hover
 	{
 		background-repeat: no-repeat;
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-bar .search-filter.selected
@@ -922,17 +922,17 @@
 
 	.search-filter-content
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-filter-content ul li:hover
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-filter-content ul li button:focus
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	#resultList .glossary .definition
@@ -1028,13 +1028,13 @@
 
 	.featured-snippets-container.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,var(--Lightest)));
-		background: -webkit-linear-gradient(top, transparent 0%, var(--Lightest) 100%);
-		background: -o-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: -ms-linear-gradient(top, transparent 0%,var(--Lightest) 100%);
-		background: linear-gradient(transparent 0%,var(--Lightest) 100%);
-		-pie-background: linear-gradient(transparent, var(--Lightest));
+		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
+		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
+		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
+		background: linear-gradient(transparent 0%,#FFFFFF 100%);
+		-pie-background: linear-gradient(transparent, #FFFFFF);
 	}
 
 	.featured-snippets-container .micro-response-title a
@@ -1109,14 +1109,14 @@
 
 	.search-bar.search-bar-container .search-submit
 	{
-		background: var(--Lightest) url('Images/icon-searchGray-17x17.png') no-repeat;
-		-pie-background: var(--Lightest) url('Skins/Fluid/Stylesheets/Images/icon-searchGray-17x17.png') no-repeat;
+		background: #FFFFFF url('Images/icon-searchGray-17x17.png') no-repeat center center;
+		-pie-background: #FFFFFF url('Skins/Fluid/Stylesheets/Images/icon-searchGray-17x17.png') no-repeat center center;
 	}
 
 	.search-bar.search-bar-container .search-submit:hover
 	{
 		background-repeat: no-repeat;
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.phrase-suggest
@@ -1196,7 +1196,7 @@
 
 	.skip-to-content
 	{
-		background: var(--Lightest) none;
+		background: #FFFFFF none;
 		background: -moz-linear-gradient(top, #b9fff7 0%, transparent 100%);
 		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b9fff7), color-stop(100%,transparent));
 		background: -webkit-linear-gradient(top, #b9fff7 0%, transparent 100%);
@@ -1219,7 +1219,7 @@
 	ul.navigation
 	{
 		background-repeat: repeat;
-		background-position: center center;
+		background-color: transparent;
 	}
 
 	ul.navigation a
@@ -1230,25 +1230,25 @@
 	ul.navigation ul
 	{
 		background-repeat: repeat;
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	ul.navigation ul ul
 	{
 		background-repeat: repeat;
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	ul.navigation ul ul ul
 	{
 		background-repeat: repeat;
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	ul.navigation ul ul ul ul
 	{
 		background-repeat: repeat;
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	ul.navigation li
@@ -1275,25 +1275,25 @@
 	ul.navigation ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.navigation ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.navigation ul ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.navigation ul ul ul ul > li:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 }
 

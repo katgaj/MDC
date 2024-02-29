@@ -1,1 +1,1 @@
-define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'Consectetur',c:0},{t:'Ipsum',c:0},{t:'Lorem',c:0},{t:'Maecenas',c:0},{t:'Maximus',c:0}]});
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'cross-country pants',c:0},{t:'cross-country specific jacket',c:0},{t:'groomed trail',c:0},{t:'stamina',c:0},{t:'trail',c:0},{t:'wind briefs',c:0}]});

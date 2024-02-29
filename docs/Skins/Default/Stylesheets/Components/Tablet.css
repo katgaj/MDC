@@ -27,7 +27,7 @@
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete ul
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-item a
@@ -57,17 +57,17 @@
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-item.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-content.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-history.auto-result-selected
 	{
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-description
@@ -165,26 +165,26 @@
 
 	.search-bar._Skins_Topics_Searchbar.mc-component .search-filter
 	{
-		background: var(--Lightest) url('Images/FilterOutline.png') no-repeat center center;
-		-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+		background: #FFFFFF url('Images/FilterOutline.png') no-repeat center center;
+		-pie-background: #FFFFFF url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-filter-content
 	{
-		top: 2em;
-		background-color: var(--Lightest);
+		top: 3em;
+		background-color: #FFFFFF;
 	}
 
 	.search-bar._Skins_Topics_Searchbar.mc-component .search-filter-wrapper.open
 	{
-		-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
-		background-color: var(--Lightest);
+		-pie-background: #FFFFFF url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+		background-color: #FFFFFF;
 		background-repeat: no-repeat;
 	}
 
 	.search-bar._Skins_Topics_Searchbar.mc-component .search-filter:hover
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-bar._Skins_Topics_Searchbar.mc-component .search-filter.selected
@@ -195,12 +195,12 @@
 
 	._Skins_Topics_Searchbar.mc-component .search-filter-content ul li:hover
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	._Skins_Topics_Searchbar.mc-component .search-filter-content ul li button:focus
 	{
-		background-color: var(--Lightest);
+		background-color: #FFFFFF;
 	}
 
 	.search-bar._Skins_Topics_Searchbar.mc-component .search-field::-webkit-input-placeholder
@@ -239,7 +239,7 @@
 	ul.menu._Skins_Topics_Menu.mc-component
 	{
 		display: none;
-		background-color: var(--Light);
+		background-color: #DADEE1;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component a
@@ -279,247 +279,36 @@
 
 	ul.menu._Skins_Topics_Menu.mc-component li > a:hover
 	{
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component ul ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component ul ul ul ul > li > a:hover
 	{
 		background-repeat: repeat;
-		background-color: var(--Primary);
+		background-color: #27c49b;
 	}
 
 	ul.menu._Skins_Topics_Menu.mc-component li > a.selected:hover
 	{
-		background-color: var(--Primary);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete ul
-	{
-		background-color: var(--Lightest);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item a
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item.auto-result-selected a
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item.auto-result-selected
-	{
-		background-color: var(--Light);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content.auto-result-selected
-	{
-		background-color: var(--Light);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history.auto-result-selected
-	{
-		background-color: var(--Light);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-description
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content .auto-result-description
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history .auto-result-description
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-icon
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content .auto-result-icon
-	{
-		background: transparent url('Images/icon-topic.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-topic.png') no-repeat center center;
-		background-size: contain;
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history .auto-result-icon
-	{
-		background: transparent url('Images/icon-search.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-search.png') no-repeat center center;
-		background-size: contain;
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-phrase
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content .auto-result-phrase
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history .auto-result-phrase
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-phrase .search-result-highlight
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-content .auto-result-phrase .search-result-highlight
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-history .auto-result-phrase .search-result-highlight
-	{
-		
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li .auto-result-remove
-	{
-		width: 17px;
-		height: 27px;
-		background: transparent url('Images/icon-remove.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-remove.png') no-repeat center center;
-		background-size: contain;
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-auto-complete li.auto-result-item .auto-result-separator
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-field
-	{
-		background-color: #ffffff;
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-submit
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-filter
-	{
-		background: var(--Lightest) url('Images/FilterOutline.png') no-repeat center center;
-		-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-filter-content
-	{
-		top: 3em;
-		background-color: var(--Lightest);
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-filter-wrapper.open
-	{
-		-pie-background: var(--Lightest) url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
-		background-color: var(--Lightest);
-		background-repeat: no-repeat;
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-filter:hover
-	{
-		background-color: var(--Lightest);
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-filter.selected
-	{
-		background: transparent url('Images/Filter.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/Filter.png') no-repeat center center;
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-filter-content ul li:hover
-	{
-		background-color: var(--Lightest);
-	}
-
-	._Skins_Home_Searchbar.mc-component .search-filter-content ul li button:focus
-	{
-		background-color: var(--Lightest);
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-field::-webkit-input-placeholder
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-field::-moz-placeholder
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-field:-moz-placeholder
-	{
-		
-	}
-
-	.search-bar._Skins_Home_Searchbar.mc-component .search-field:-ms-input-placeholder
-	{
-		
-	}
-
-	.search-bar.search-bar-container._Skins_Home_Searchbar.mc-component .search-submit
-	{
-		background: transparent url('Images/search-30x30.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/search-30x30.png') no-repeat center center;
-	}
-
-	.search-bar.search-bar-container._Skins_Home_Searchbar.mc-component .search-submit:hover
-	{
-		background-repeat: no-repeat;
-		background-position: center center;
-		background-color: transparent;
+		background-color: #27c49b;
 	}
 }
 

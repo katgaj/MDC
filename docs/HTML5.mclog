@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2023 r2 Generated HTML5.fltar" Date="2024-02-11T14:08:32.2192523+01:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2023 r2 Generated HTML5.fltar" Date="2024-02-29T16:24:58.6388701+01:00" Branch="master" Commit="da6c3d473f90698ee005d6149528afed6cbaafd2">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -7,8 +7,6 @@ Gathering Glossary information...
 Gathering Auto-index information...
 Loading Primary TOC...
 Processing Primary TOC...
-Excluded from output:file:///C:/KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/HomePDF.htm.
-Excluded from output:file:///C:/KT/MadCap_Project/Cross-country skiing/Content/E-Frontmatter-Topics/PDFProxy.htm.
 Generating Glossary...
 Collecting source files...
 Processing source files...
@@ -17,56 +15,263 @@ Processing CSS: Resources\Stylesheets\StylesForHomePage.css...
 Processing CSS: Resources\TableStyles\Rows.css...
 Generating output files...
 Processing topic: Overview\What is cross-country skiing.htm...
+Processing CSS: Resources\Branding\Branding.css...
+Missing linked source file: C:\KT\MadCap_Project\Cross-country skiing\Content\Resources\Images\Logo.svg
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Overview\What is cross-country skiing.htm
 Processing topic: Overview\The origins.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Overview\The origins.htm
 Processing topic: Overview\Best trails in Poland.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Overview\Best trails in Poland.htm
 Processing topic: Overview\Best trails around the world.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Overview\Best trails around the world.htm
 Processing topic: How to prepare\Body preparation.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated How to prepare\Body preparation.htm
 Processing topic: Gear\Equipment.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Gear\Equipment.htm
 Processing topic: Gear\outfit.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Gear\outfit.htm
 Processing topic: Gear\Base layers.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Gear\Base layers.htm
 Processing topic: Gear\Middle layers.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Gear\Middle layers.htm
 Processing topic: Gear\Outer layers.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Gear\Outer layers.htm
 Processing topic: How to prepare\Cardio training.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated How to prepare\Cardio training.htm
 Processing topic: How to prepare\Work on your core.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated How to prepare\Work on your core.htm
 Processing topic: How to prepare\Nutrition.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated How to prepare\Nutrition.htm
 Processing topic: Worth it or not\Why is it worth it.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Worth it or not\Why is it worth it.htm
 Processing topic: Worth it or not\Cost.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Worth it or not\Cost.htm
 Processing topic: Worth it or not\Who is it for.htm...
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
 Generated Worth it or not\Who is it for.htm
-Processing topic: Resources\Home.htm...
+Processing topic: Resources\TemplatePages\Home.htm...
+CSS: Circular CSS stylesheet file:///C:/KT/MadCap_Project/Cross-country skiing/Content/Resources/Stylesheets/StylesForHomePage.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css
+Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css
 Applying template page Other-Topics.flmsp...
-Generated Resources\Home.htm
+Generated Resources\TemplatePages\Home.htm
 Generating micro content...
 Generating output skins...
 Generating synonyms file...
@@ -77,23 +282,231 @@ Generating concept and keyword anchors in output files...
 Generating Index...
 Generating Concepts...
 Generating Template Topics...
-Generating Search.htm...
-Topic marked 'not searchable': Search.htm...
+Generating Search1.htm...
+Topic marked 'not searchable': Search1.htm...
 Applying template page Other-Topics.flmsp...
-Generated Search.htm
+Generated Search1.htm
 Resolving links in output files...
 Generating Search Database...
 Writing search entry cache...
 Generating final output...
 Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
-Generated Default.htm
+Generated index.html
 Saving result set...
+Ignored Compiler Warnings: 3
 Output generated in 7 second(s).
 
 Done
-Saving log to "C:\KT\MadCap_Project\Cross-country skiing\Output\wojci\HTML5\HTML5.mclog"
+Saving log to "C:\KT\MadCap_Project\Output\HTML5\HTML5.mclog"
 </Messages>
-    <Warnings />
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/Branding/Branding.css" Message="Missing linked source file: C:\KT\MadCap_Project\Cross-country skiing\Content\Resources\Images\Logo.svg&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10001" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/What is cross-country skiing.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/The origins.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails in Poland.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Overview/Best trails around the world.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Body preparation.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Equipment.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/outfit.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Base layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Middle layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Gear/Outer layers.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Cardio training.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Work on your core.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/How to prepare/Nutrition.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Why is it worth it.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Cost.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Worth it or not/Who is it for.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry Message="CSS: Circular CSS stylesheet file:///C:/KT/MadCap_Project/Cross-country skiing/Content/Resources/Stylesheets/StylesForHomePage.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="CSS" Target="HTML5" ErrorID="10013" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-32x32.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/favicon-96x96.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Favicons/logo_ski.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Default/Stylesheets/Components/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/foundation.6.2.3.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Styles.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Tablet.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Mobile.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/Resources/TemplatePages/Home.htm" Message="Link points outside project file:///C:/KT/MadCap_Project/Cross-country skiing/Skins/Fluid/Stylesheets/Print.css&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+    </Warnings>
     <Errors />
 </MadCapLog>
