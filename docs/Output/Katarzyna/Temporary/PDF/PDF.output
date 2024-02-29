@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../Output/PDF/PDF.pdf"
+  BuildVersion="19.1.8677.41286">
+  <Files>
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/TableStyles/Rows.css" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/base layers.jpg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/skis.jpeg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/boots.jpg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/outfit.jpeg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/general.jpg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/cartoon.jpg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/logo_ski.png" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/poles.jpg" />
+    <Url
+      Source="Output/Katarzyna/Temporary/PDF/PDF_630F586A/Resources/Images/skilogo.png" />
+    <Url
+      Source="../Output/PDF/PDF.pdf" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

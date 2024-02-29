@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="HomePage"
+  FileSearchable="true"
+  OnlyLocalStylesheets="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Content/Overview/What is cross-country skiing.htm" />
+    <Link
+      Url="Content/Gear/outfit.htm" />
+    <Link
+      Url="Content/How to prepare/Body preparation.htm" />
+    <Link
+      Url="Content/Worth it or not/Why is it worth it.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Link
+      Url="Project/Skins/HomeSearchBar.flskn" />
+    <Link
+      Url="Content/Overview/What is cross-country skiing.htm" />
+    <Link
+      Url="Content/Gear/outfit.htm" />
+    <Link
+      Url="Content/How to prepare/Body preparation.htm" />
+    <Link
+      Url="Content/Worth it or not/Why is it worth it.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/StylesForHomePage.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

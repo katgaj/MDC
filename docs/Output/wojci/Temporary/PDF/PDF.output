@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../Output/PDF/PDF.pdf"
+  BuildVersion="19.1.8677.41286">
+  <Files>
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/skis.jpeg" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/outfit.jpeg" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/logo_ski.png" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/cartoon.jpg" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/TableStyles/Rows.css" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/general.jpg" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/boots.jpg" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/poles.jpg" />
+    <Url
+      Source="../Output/PDF/PDF.pdf" />
+    <Url
+      Source="Output/wojci/Temporary/PDF/PDF_4CD3F1F2/Resources/Images/base layers.jpg" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/E-Frontmatter-Topics/HomePDF.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/Frontmatter.flpgl" />
+    <Link
+      Url="Content/E-Frontmatter-Topics/PDFProxy.htm" />
+    <Link
+      Url="Content/Overview/The origins.htm" />
+    <Link
+      Url="Content/Overview/What is cross-country skiing.htm" />
+    <Link
+      Url="Content/Overview/Best trails in Poland.htm" />
+    <Link
+      Url="Content/Overview/Best trails around the world.htm" />
+    <Link
+      Url="Content/Gear/Equipment.htm" />
+    <Link
+      Url="Content/Gear/outfit.htm" />
+    <Link
+      Url="Content/Gear/Base layers.htm" />
+    <Link
+      Url="Content/Gear/Middle layers.htm" />
+    <Link
+      Url="Content/Gear/Outer layers.htm" />
+    <Link
+      Url="Content/How to prepare/Body preparation.htm" />
+    <Link
+      Url="Content/How to prepare/Cardio training.htm" />
+    <Link
+      Url="Content/How to prepare/Work on your core.htm" />
+    <Link
+      Url="Content/How to prepare/Nutrition.htm" />
+    <Link
+      Url="Content/Worth it or not/Why is it worth it.htm" />
+    <Link
+      Url="Content/Worth it or not/Cost.htm" />
+    <Link
+      Url="Content/Worth it or not/Who is it for.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

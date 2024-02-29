@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="topic"
+  FileTitle=""
+  FileSearchable="true"
+  MasterPage="file:///D:/KT/MadCap_Project/Cross-country skiing/Content/Resources/TemplatePages/Other-Topics.flmsp"
+  OnlyLocalStylesheets="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TemplatePages/Other-Topics.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/How to prepare/Cardio training.htm" />
+    <Link
+      Url="Content/How to prepare/Work on your core.htm" />
+    <Link
+      Url="Content/How to prepare/Nutrition.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TemplatePages/Other-Topics.flmsp" />
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Content/How to prepare/Cardio training.htm" />
+    <Link
+      Url="Content/How to prepare/Work on your core.htm" />
+    <Link
+      Url="Content/How to prepare/Nutrition.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

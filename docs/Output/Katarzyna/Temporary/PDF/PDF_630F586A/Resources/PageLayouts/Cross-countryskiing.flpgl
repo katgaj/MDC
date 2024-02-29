@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="2cm" PaddingRight="2cm" PaddingTop="2cm" PaddingBottom="2cm">
+        <Frame Anchors="" Right="0.1666667in" Bottom="9.479167in" X="-0.1875in" Y="-1.402292cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="5px" Height="1.243542cm" VerticalAlign="bottom" TextAlign="right" BorderBottomStyle="solid" BorderBottomWidth="2px" BorderBottomColor="#1e90ff" Width="17.62125cm" BackgroundColor="transparent">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="font-size: 9pt;text-align: right;">Cross-countryskiing user guide</xhtml:p>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;color: #191970;text-align: center;font-size: 10pt;">
+                            <xhtml:br />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Width" PaddingLeft="2px" PaddingRight="2px" PaddingTop="2px" PaddingBottom="2px" X="0.2083333in" Y="-1px" Right="0.2083333in" Bottom="29px" Width="16.51cm" Height="23.1775cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0.2395833in" Bottom="-35px" X="0.2083333in" Y="23.60083cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="0pt" BorderTopColor="#ffffff" Width="16.43063cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="font-size: 9pt;color: #808080;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="2cm" PaddingRight="2cm" PaddingTop="2cm" PaddingBottom="2cm">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="15px" Y="263px" Right="11px" Bottom="0.01041667in" Width="16.88042cm" Height="16.93333cm">
+        </Frame>
+        <Frame X="-10px" Y="-42px" Width="656px" Height="56px" Flow="header" Right="18px" Bottom="890px" Anchors="" BorderBottomStyle="solid" BorderBottomWidth="0px" BorderBottomColor="#ffffff">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="226px" Y="16px" Width="100px" Height="100px" Flow="decoration0" Right="338px" Bottom="788px" BackgroundImage="../Images/logo_ski.png" BackgroundRepeat="stretch" />
+    </Page>
+</PageStyles>

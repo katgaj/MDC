@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/KT/MadCap_Project/Cross-country skiing/Output/wojci/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="cross-country specific jacket"
+      glossTerm="Glossary.Term0"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">a jacket that is elastic and highly breathable, made of windproof and water-repellent material</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="wind briefs"
+      glossTerm="Glossary.Term2"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">men's underpants with softshell front panel that keeps you warm in cold and windy conditions.</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="stamina"
+      glossTerm="Glossary.Term3"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">the physical and/or mental strength to do something that might be difficult and will take a long time</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="trail"
+      glossTerm="Glossary.Term4"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">a route that has been laid out, constructed and maintained specifically for cross-country skiing</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="cross-country pants"
+      glossTerm="Glossary.Term5"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">pants made to work well in skiing, and they often do double duty as running pants. The front is windproof, and most models have air permeable, super breathable back panels</Definition>
+    </GlossaryCacheEntry>
+    <GlossaryCacheEntry
+      Term="groomed trail"
+      glossTerm="Glossary.Term1"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">trails that are meticulously maintained and prepared by machinery like snow groomers, snowcats, or trail grooming equipment. These machines compact and smooth the surface, creating well-defined tracks or paths</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls />
+</CatapultGlobalGlossaryCache>

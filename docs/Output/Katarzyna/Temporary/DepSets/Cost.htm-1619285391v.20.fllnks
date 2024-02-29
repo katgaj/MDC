@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="https://www.snowleader.co.uk/en/snow/cross-country-skiing/classic-cross-country-skiing/classic-cross-country-skis.html" />
+    <Link
+      Url="Project/ConditionTagSets/green&amp;purple.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/green&amp;purple.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="https://www.snowleader.co.uk/en/snow/cross-country-skiing/classic-cross-country-skiing/classic-cross-country-skis.html?p=1" />
+    <Link
+      Url="Project/ConditionTagSets/green&amp;purple.flcts" />
+    <Link
+      Url="Content/Resources/Snippets/green&amp;purple.flsnp" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="green&amp;purple.purple" />
+    <Condition
+      Tag="green&amp;purple.green" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
